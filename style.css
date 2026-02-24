@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    background-image: url("asests/asests/flash_hub_4up_Char_Flash_1x1.avif"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+    
+}
+
+img {
+    height: 200px;
+    border: 5px solid white;
+    border-radius: 40px;
+}
+
+footer p {
+    color: grey;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    padding: 70px;
+
+}
